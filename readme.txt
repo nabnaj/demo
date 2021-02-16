@@ -7,3 +7,4 @@ I have changed this line
 another diff
 
 branch
+conflict 2
